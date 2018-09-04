@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Test Detective](http://s9975.pcdn.co/wp-content/uploads/2015/06/ID-100211347-212x300.jpg)
